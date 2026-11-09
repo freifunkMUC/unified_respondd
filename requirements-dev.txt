@@ -1,6 +1,6 @@
 pytest==9.2.0
 pytest-mock==3.17.0
 pytest-cov==7.1.0
-ruff==0.17.3
+ruff==0.17.4
 bandit[toml]==1.9.4
 pip-audit==2.10.1
